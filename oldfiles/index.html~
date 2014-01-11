@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script src="justdoit.js"></script>
+</head>
+<body>
+    <div class="tabs">
+      <a href="http://spreefeed.com">About</a>
+      <a href="projects.html">Projects</a>
+    </div>
+    
+    <h1>Jonathan Bai</h1>
+    <h2>Software Engineer and an apiring entrepreneur</h2>
+    <br><img class ="circular" src="http://spreefeed.com/jsfiles/620692_4149305006712_482958582_o.jpg"></br>
+    <button class= "aboutButton">
+        Click here for Resume
+    </button>
+    <div class="about">
+        <img src="Resume.jpg"/>
+    </div>
+<p>
+<table bgcolor="black" cellpadding="12" border="1">
+<tr><td colspan="2"><center><h1><i><b>Login
+Area</b></i></h1></center></td></tr>
+<tr><td><h1><i><b>UserID:</b></i></h1></td><td><form name="login"><input
+name="id" type="text"></td></tr>
+<tr><td><h1><i><b>Password:</b></i></h1></td><td><input name="pass"
+type="password"></td></tr>
+<tr><td><center><input type="button" value="Login"
+onClick="loginCheck(this.form)"></center></td><td><center><br><input
+type="Reset"></form></td></tr></table></center> 
+</p>
+<a href="signup.html"> <img src = "http://mosquitobandits.com/includes/images/subscribe.jpg"height="100" width="300"/> </a>
+
+</body>

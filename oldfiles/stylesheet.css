@@ -1,0 +1,64 @@
+
+    body {
+        text-align: center;
+        background:url("http://fc04.deviantart.net/fs70/f/2012/087/c/4/gray_background_by_wiedzmawied\
+zma-d4u7n1d.jpg");;
+        color:white;
+        font-family: Helvetica;
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    p {
+        font-size: 24px;
+    }
+    input {
+        border: 0;
+        padding: 12px;
+        font-size: 18px;
+    }
+    input[type="submit"] {
+        color:black;
+        background: limegreen;
+    }
+    .tabs{
+        font-family: Times New Roman;
+        background:url("http://hdwallfan.com/wp-content/uploads/2013/09/White-Background-Computers.jpg");    
+        font-size: 30px;
+    }
+    a{
+        text-decoration:none;
+    }
+    a:visited {
+        color: black;
+        font-weight; normal;
+        text-decoration:none;
+    }
+    a:hover {
+        color: blue;
+        font-weight; normal;
+        text-decoration:none;
+    }
+    a:active {
+        color: black;
+        font-weight; normal;
+        text-decoration:none;
+    }
+    button {
+        border: 0;
+        padding: 12px;
+        font-size: 18px;
+    }
+
+    .circular {
+        width: 200px;
+        height: 200px;
+        border-radius: 150px;
+        -webkit-border-radius: 150px;
+        -moz-border-radius: 150px;
+    }
+
+    .about {
+        display: none;
+    }
